@@ -128,13 +128,21 @@
                 "file": "GraphQL/Inline Fragments.md"
               }
             }
+          },
+          {
+            "id": "d9e3abdc37b0916d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "1660c687570dc136",
   "lastOpenFiles": [
