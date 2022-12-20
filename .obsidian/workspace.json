@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "2f96b29551d21633",
+    "type": "split",
+    "children": [
+      {
+        "id": "012c97c01306742c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1660c687570dc136",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GraphQL/Inline Fragments.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "50d33f57f9147a6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a68f6e55b54abe1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f48c87bca0d60723",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fd2e7ddd6ca5e218",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ad7619ef8c5b04b5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "55c34273ad3053ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "35d7849048056b91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1b48532334bfc63",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GraphQL/Inline Fragments.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bc5b4b40899c6253",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GraphQL/Inline Fragments.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "70c2183452160b4c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e01a6f18bfd6a2ac",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GraphQL/Inline Fragments.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1660c687570dc136",
+  "lastOpenFiles": [
+    "README.md",
+    "GraphQL/Inline Fragments.md",
+    "In Line Fragments.md"
+  ]
+}
