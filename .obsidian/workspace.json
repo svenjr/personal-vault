@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GraphQL/Inline Fragments.md",
+                "file": "GraphQL/Inline-Fragments.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GraphQL/Inline Fragments.md",
+                "file": "GraphQL/Inline-Fragments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GraphQL/Inline Fragments.md",
+                "file": "GraphQL/Inline-Fragments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GraphQL/Inline Fragments.md"
+                "file": "GraphQL/Inline-Fragments.md"
               }
             }
           },
@@ -147,7 +147,7 @@
   "active": "1660c687570dc136",
   "lastOpenFiles": [
     "README.md",
-    "GraphQL/Inline Fragments.md",
+    "GraphQL/Inline-Fragments.md",
     "In Line Fragments.md"
   ]
 }
