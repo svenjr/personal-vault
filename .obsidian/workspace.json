@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GraphQL/Inline-Fragments.md",
+                "file": "Ideas/APIs/An API for Geospatial Queries.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GraphQL/Inline-Fragments.md",
+                "file": "Ideas/APIs/An API for Geospatial Queries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GraphQL/Inline-Fragments.md",
+                "file": "Ideas/APIs/An API for Geospatial Queries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GraphQL/Inline-Fragments.md"
+                "file": "Ideas/APIs/An API for Geospatial Queries.md"
               }
             }
           },
@@ -144,7 +144,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "1660c687570dc136",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f48c87bca0d60723",
   "lastOpenFiles": [
     "README.md",
     "GraphQL/Inline-Fragments.md",
