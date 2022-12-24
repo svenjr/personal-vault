@@ -20,4 +20,13 @@ There is a lot of extra work that goes along with this than just creating a grea
 
 I would build the backend backbone as a Go service with a GraphQL API facing outward for users. I would also build a totally separate repo for the website - not sure what technology to use here as it would be my first time doing anything in the frontend. The other question might be to also control users in a separate micro-service instead of attaching it to the Go part - this part should be as fast and light as possible for performance.
 
-If I take the micro-service path, using a federated graph with a [Apollo Router](https://www.apollographql.com/docs/router/) maybe. This means I could extend the graph for internal and external use. However, if the main business model is an API, it might be worth considering using an external and internal graph. That means there is a specific graph dedicated for customers. 
+If I take the micro-service path, using a federated graph with a [Apollo Router](https://www.apollographql.com/docs/router/) maybe. This means I could extend the graph for internal and external use. However, if the main business model is an API, it might be worth considering using an external and internal graph. That means there is a specific graph dedicated for customers.
+
+That means, the work generally looks like:
+
+- **Geoprocessing Service**: Go service to do all of the geoprocessing (either via a DB or ideally through a Go package)
+- **User's Service**: Go service or Firebase to control user signup - preferably not Firebase since it does not work really well for machine-to-machine (M2M). The main goal for this is to be able to have customers pay for an API so OAuth2 might be the best route
+- **Frontend Web App**: To showcase the tool/API and to market it
+- A [Kubernetes](https://kubernetes.io/) (or [K3S](https://docs.k3s.io/)) cluster to host everything via AWS or Linode or something
+
+It looks like I can get most of this up privately on Github with no cost. Cost only starts to come in with 
