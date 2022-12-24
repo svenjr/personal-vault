@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 252.50247192382812
   },
   "right": {
     "id": "55c34273ad3053ee",
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 283.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,7 +154,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f48c87bca0d60723",
+  "active": "1660c687570dc136",
   "lastOpenFiles": [
     "README.md",
     "GraphQL/Inline-Fragments.md",

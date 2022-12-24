@@ -3,8 +3,8 @@
   "theme": "system",
   "cssTheme": "Fusion",
   "interfaceFontFamily": "",
-  "textFontFamily": "Office Code Pro D",
+  "textFontFamily": "",
   "monospaceFontFamily": "Office Code Pro D",
   "translucency": true,
-  "baseFontSize": 14
+  "baseFontSize": 16
 }
