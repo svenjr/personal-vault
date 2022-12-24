@@ -13,4 +13,3 @@ I am not even really sure anyone would want that. But what people might be willi
 - Elevation API
 - Line simplification
 - Data decoration (given a line, attach other data about it - maybe using OSM) - this could be a really nice one because it requires quite a bit of data
-- 

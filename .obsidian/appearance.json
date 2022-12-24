@@ -1,9 +1,10 @@
 {
   "accentColor": "",
-  "theme": "obsidian",
-  "cssTheme": "Clair de Lune",
+  "theme": "system",
+  "cssTheme": "Fusion",
   "interfaceFontFamily": "",
   "textFontFamily": "Office Code Pro D",
   "monospaceFontFamily": "Office Code Pro D",
-  "translucency": true
+  "translucency": true,
+  "baseFontSize": 14
 }
