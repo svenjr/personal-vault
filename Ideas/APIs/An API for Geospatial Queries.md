@@ -6,4 +6,11 @@ It would be an interesting idea to create a paid API but for geospatial power. F
 curl -X POST "https://the-geo-api/st_intersect" -d '{"point1": "12.5 46.3", ...}'
 ```
 
-I am not even really sure anyone would want that. But what people might be willing to pay for is to also have data access. That would mean that you could obtain things like high def elevation and gradient profiles for a line or point. This would require either a finanial investment or working closely with a company who has the data. At first, I could tap into a public data source for the best free data I could find. 
+I am not even really sure anyone would want that. But what people might be willing to pay for is to also have data access. That would mean that you could obtain things like high def elevation and gradient profiles for a line or point. This would require either a finanial investment or working closely with a company who has the data. At first, I could tap into a public data source for the best free data I could find.
+
+## Possible API Capabilities
+
+- Elevation API
+- Line simplification
+- Data decoration (given a line, attach other data about it - maybe using OSM) - this could be a really nice one because it requires quite a bit of data
+- 
