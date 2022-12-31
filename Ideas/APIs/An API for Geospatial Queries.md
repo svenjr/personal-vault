@@ -30,3 +30,6 @@ That means, the work generally looks like:
 - A [Kubernetes](https://kubernetes.io/) (or [K3S](https://docs.k3s.io/)) cluster to host everything via AWS or Linode or something
 
 It looks like I can get most of this up privately on Github with no cost. Cost only starts to come in with 
+
+Domain:
+- I have registered geo-get.xyz with Google Domains as of Dec 30, 2022 for $12 for the year. I would love to start building this this year with this domain.
