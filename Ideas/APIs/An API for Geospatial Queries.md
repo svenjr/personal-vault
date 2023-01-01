@@ -33,3 +33,14 @@ It looks like I can get most of this up privately on Github with no cost. Cost o
 
 Domain:
 - I have registered geo-get.xyz with Google Domains as of Dec 30, 2022 for $12 for the year. I would love to start building this this year with this domain.
+
+## Define the Product - What will it do?
+This is arguably the hardest part. What will the service do and why will that drive people to use it? My original idea is simple: abstract the computation, effort, and expertise away from users for geospatial tasks. Geospatial data is used all over web and mobile products that could be improved for their users, but it is a big investment to want to go in and control all of those tasks yourself. Imagine a user draws or inserts a line to your app for some reason, the app could then simply call geo-get.xyz/something with the line data and receive all sorts of information and statistics back. Which areas does the line cross, what is the true geodesic distance, what is Euclidian distance from start to end (signifying also if it is a loop), etc. 
+
+I think geo data should be more utilized and more featured for people who want it. Points can get geocoded or given accurate elevation information or even weather using extended APIs. The main idea behind my product is if you have information that can be referenced to a place on Earth, I want you to use my API to decorate it.
+
+### Functionality
+- Line information - given a line, get information about the line back (length, elevation profile, etc)
+- Point information - given a point, get information about the point back (weather, currency, elevation, polygons it falls within like property lines) 
+- Polygon information - given a polygon, get information about the polygon back (area, if it intersects or falls within other public polygons, etc)
+- Intersection - given two objects, do they intersect (or two subsets of data and ask if any object from one group intersects any from the other)
