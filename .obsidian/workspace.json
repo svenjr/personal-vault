@@ -11,8 +11,12 @@
             "id": "a925d3179ad0f1b7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Arc/The Arc Browser.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Arc/The Arc Browser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Arc/The Arc Browser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Arc/The Arc Browser.md"
+              }
             }
           },
           {
@@ -146,8 +154,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d9e3abdc37b0916d",
+  "active": "f48c87bca0d60723",
   "lastOpenFiles": [
+    "Arc/docs/arc_logo.svg",
     "Screenshot 2023-03-28 at 10.18.31.jpg",
     "Arc/The Arc Browser.md",
     "Arc/docs/work_space.jpg",
