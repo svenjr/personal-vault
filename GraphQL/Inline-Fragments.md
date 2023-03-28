@@ -1,4 +1,4 @@
-The first thing to remember is that [fragments](https://graphql.org/learn/queries/#fragments) are frist. They are essentially reusable pieces that you can use from multiple queries in the same call. Something like this:
+The first thing to remember is that [fragments](https://graphql.org/learn/queries/#fragments) are first. They are essentially reusable pieces that you can use from multiple queries in the same call. Something like this:
 
 ```graphql
 {
