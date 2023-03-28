@@ -8,4 +8,4 @@ I have decided that I will keep this document in my vault so that I can write do
 ### Profiles and Spaces
 Hands down the best thing about this browser is the context switching. I can have a `Personal` space as well as we `Strava` space and a `FATMAP` space. The spaces allow me to stay organized with what I have open where (if you are disciplined enough).  They look like this:
 
-![[Screenshot 2023-03-28 at 10.18.31.jpg]]
+[[Screenshot 2023-03-28 at 10.20.02.jpg]]
