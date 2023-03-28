@@ -11,12 +11,8 @@
             "id": "a925d3179ad0f1b7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arc/The Arc Browser.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arc/The Arc Browser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arc/The Arc Browser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Arc/The Arc Browser.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,15 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f48c87bca0d60723",
+  "active": "d9e3abdc37b0916d",
   "lastOpenFiles": [
+    "Screenshot 2023-03-28 at 10.18.31.jpg",
+    "Arc/The Arc Browser.md",
     "Arc/docs/work_space.jpg",
     "Arc/docs.md",
-    "Arc/The Arc Browser.md",
     "Arc/docs/personal_space.jpg",
     "Arc.md",
     "Arc/docs",
-    "Screenshot 2023-03-28 at 10.18.31.jpg",
     "README.md",
     "Arc",
     "Ideas/APIs/An API for Geospatial Queries.md",
