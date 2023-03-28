@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas/APIs/An API for Geospatial Queries.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7feee25d864b1041",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arc/The Arc Browser.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GraphQL/Inline-Fragments.md",
+                "file": "Arc/The Arc Browser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GraphQL/Inline-Fragments.md",
+                "file": "Arc/The Arc Browser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GraphQL/Inline-Fragments.md"
+                "file": "Arc/The Arc Browser.md"
               }
             }
           },
@@ -167,12 +179,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a925d3179ad0f1b7",
+  "active": "f48c87bca0d60723",
   "lastOpenFiles": [
-    "Ideas/APIs/The Open Outdoor Network (OON).md",
-    "Ideas/APIs/An API for Geospatial Queries.md",
+    "Arc/docs",
+    "Screenshot 2023-03-28 at 10.18.31.jpg",
     "README.md",
+    "Arc/The Arc Browser.md",
+    "Arc",
+    "Ideas/APIs/An API for Geospatial Queries.md",
     "GraphQL/Inline-Fragments.md",
+    "Ideas/APIs/The Open Outdoor Network (OON).md",
     "In Line Fragments.md"
   ]
 }
