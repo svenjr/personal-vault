@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1660c687570dc136",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7feee25d864b1041",
+            "id": "a925d3179ad0f1b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a925d3179ad0f1b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GraphQL/Inline-Fragments.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,13 +154,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f48c87bca0d60723",
+  "active": "a925d3179ad0f1b7",
   "lastOpenFiles": [
-    "Arc/docs/Screenshot 2023-03-28 at 10.20.02.jpg",
+    "Arc/docs.md",
+    "Arc/The Arc Browser.md",
+    "Arc/docs/personal_space.jpg",
+    "Arc.md",
     "Arc/docs",
     "Screenshot 2023-03-28 at 10.18.31.jpg",
     "README.md",
-    "Arc/The Arc Browser.md",
     "Arc",
     "Ideas/APIs/An API for Geospatial Queries.md",
     "GraphQL/Inline-Fragments.md",
