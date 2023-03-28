@@ -1,5 +1,5 @@
 ![Arc Logo](docs/arc_logo.svg)
-I have (and a lot of the team at FATMAP) have been getting really into this new browser called Arc. It is pretty much a new way of browsing the internet with this super cool mixture of art and engineering. There are some elegant ways of navigating - mainly the "spotlight" method of not needing to remove your hands from the keyboard to get around. 
+I have (and a lot of the team at FATMAP) been getting really into this new browser called Arc. It is pretty much a new way of browsing the internet with this super cool mixture of art and engineering. There are some elegant ways of navigating - mainly the "spotlight" method of not needing to remove your hands from the keyboard to get around. 
 
 Granted, this was possible before but Arc just makes it a bit more exciting and fun to do. 
 
